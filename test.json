@@ -2,8 +2,8 @@
     "active": "true",
     "title": "Signal your support to set the Stability Fee to 1000%",
     "date": "2019-06-24T00:00:00.000Z",
-    "proposalBlurb": "Vote for this proposal",
+    "summary": "Vote for this proposal",
     "address": "0xaE071879962A36d338ed89Bb0fF61D0A5b8C6201",
     "kovanAddress": "0xaE071879962A36d338ed89Bb0fF61D0A5b8C6201",
-    "about": "#Hello this is the proposal! This is more words"
+    "markdown": "#Hello this is the proposal! This is more words"
   }
