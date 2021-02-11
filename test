@@ -1,0 +1,9 @@
+{
+    end_timestamp: 1561651200000,
+    date: '2019-06-24T00:00:00.000Z',
+    proposal_blurb: 'Vote for this proposal'
+    end_approvals: 0,
+    source: '0xaE071879962A36d338ed89Bb0fF61D0A5b8C6201',
+    about: '#Hello
+    this is the proposal!'
+  }
